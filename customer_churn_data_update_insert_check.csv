@@ -1,3 +1,0 @@
-CustomerID,Age,Gender,Tenure,MonthlyCharges,ContractType,InternetService,TotalCharges,TechSupport,Churn
-1,100,Male,6,88.35,Month-to-Month,Fiber Optic,500,Yes,Yes
-1002,43,Male,0,500,Month-to-Month,Fiber Optic,0,Yes,Yes
