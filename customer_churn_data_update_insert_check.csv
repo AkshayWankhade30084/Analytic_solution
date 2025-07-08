@@ -1,0 +1,3 @@
+CustomerID,Age,Gender,Tenure,MonthlyCharges,ContractType,InternetService,TotalCharges,TechSupport,Churn
+1005,43,Male,0,100,Month-to-Month,Fiber Optic,100,Yes,Yes
+1006,43,Male,0,100,Month-to-Month,Fiber Optic,100,Yes,Yes
