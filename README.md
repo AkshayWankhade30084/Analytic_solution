@@ -1,4 +1,5 @@
 Analytic_solution_readme.docx - readme file
+\n
 customer_churn_data.csv - input file
 HG_Insights_Assignment.ipynb - ETL Notebook
 hg_insights_assignment.py - .Py file same as notebook
