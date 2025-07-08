@@ -1,0 +1,4 @@
+contract_key,contract_type,duration_months,is_month_to_month
+1,Month-to-Month,1,1
+2,One-Year,12,0
+3,Two-Year,24,0
